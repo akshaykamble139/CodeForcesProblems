@@ -25,4 +25,8 @@
 23. https://codeforces.com/problemset/problem/271/A
 24. https://codeforces.com/problemset/problem/1030/A
 25. https://codeforces.com/problemset/problem/467/A
-26. 
+26. https://codeforces.com/problemset/problem/344/A
+27. https://codeforces.com/problemset/problem/136/A
+28. https://codeforces.com/problemset/problem/486/A
+29. https://codeforces.com/problemset/problem/200/B
+30. https://codeforces.com/problemset/problem/61/A
