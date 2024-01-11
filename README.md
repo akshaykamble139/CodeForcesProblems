@@ -30,3 +30,13 @@
 28. https://codeforces.com/problemset/problem/486/A
 29. https://codeforces.com/problemset/problem/200/B
 30. https://codeforces.com/problemset/problem/61/A
+31. https://codeforces.com/problemset/problem/228/A
+32. https://codeforces.com/problemset/problem/705/A
+33. https://codeforces.com/problemset/problem/1328/A
+34. https://codeforces.com/problemset/problem/469/A
+35. https://codeforces.com/problemset/problem/144/A
+36. https://codeforces.com/problemset/problem/520/A
+37. https://codeforces.com/problemset/problem/148/A
+38. https://codeforces.com/problemset/problem/443/A
+39. https://codeforces.com/problemset/problem/996/A
+40. https://codeforces.com/problemset/problem/785/A
