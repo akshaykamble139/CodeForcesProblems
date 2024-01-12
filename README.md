@@ -40,3 +40,8 @@
 38. https://codeforces.com/problemset/problem/443/A
 39. https://codeforces.com/problemset/problem/996/A
 40. https://codeforces.com/problemset/problem/785/A
+41. https://codeforces.com/problemset/problem/268/A
+42. https://codeforces.com/problemset/problem/1335/A
+43. https://codeforces.com/problemset/problem/141/A
+44. https://codeforces.com/problemset/problem/510/A
+45. https://codeforces.com/problemset/problem/427/A
