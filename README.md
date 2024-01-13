@@ -1,4 +1,4 @@
-# Solving coding problems on CodeForces
+## Solving coding problems on CodeForces
 
 1. https://codeforces.com/problemset/problem/4/A
 2. https://codeforces.com/problemset/problem/71/A
@@ -45,3 +45,8 @@
 43. https://codeforces.com/problemset/problem/141/A
 44. https://codeforces.com/problemset/problem/510/A
 45. https://codeforces.com/problemset/problem/427/A
+46. https://codeforces.com/problemset/problem/155/A
+47. https://codeforces.com/problemset/problem/750/A
+48. https://codeforces.com/problemset/problem/1352/A
+49. https://codeforces.com/problemset/problem/723/A
+50. https://codeforces.com/problemset/problem/581/A
