@@ -51,3 +51,7 @@
 48. https://codeforces.com/problemset/problem/1352/A
 49. https://codeforces.com/problemset/problem/723/A
 50. https://codeforces.com/problemset/problem/581/A
+
+## 900 rating problems
+1. https://codeforces.com/problemset/problem/96/A
+2. 
