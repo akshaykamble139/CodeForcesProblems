@@ -1,6 +1,6 @@
-## Solving coding problems on CodeForces
+# Solving coding problems on CodeForces
 
-# 800 rating problems
+## 800 rating problems
 1. https://codeforces.com/problemset/problem/4/A
 2. https://codeforces.com/problemset/problem/71/A
 3. https://codeforces.com/problemset/problem/231/A
