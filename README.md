@@ -54,4 +54,11 @@
 
 ## 900 rating problems
 1. https://codeforces.com/problemset/problem/96/A
-2. 
+2. https://codeforces.com/problemset/problem/160/A
+3. https://codeforces.com/problemset/problem/318/A
+4. https://codeforces.com/problemset/problem/133/A
+5. https://codeforces.com/problemset/problem/405/A
+6. https://codeforces.com/problemset/problem/580/A
+7. https://codeforces.com/problemset/problem/208/A
+8. https://codeforces.com/problemset/problem/337/A
+9. 
