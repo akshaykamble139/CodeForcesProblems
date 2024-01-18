@@ -66,4 +66,11 @@
 11. https://codeforces.com/problemset/problem/1475/A
 12. https://codeforces.com/problemset/problem/34/B
 13. https://codeforces.com/problemset/problem/1343/A
-14. 
+14. https://codeforces.com/problemset/problem/1475/B
+15. https://codeforces.com/problemset/problem/1374/B
+16. https://codeforces.com/problemset/problem/460/A
+17. https://codeforces.com/problemset/problem/474/A
+18. https://codeforces.com/problemset/problem/556/A
+19. https://codeforces.com/problemset/problem/1335/B
+20. https://codeforces.com/problemset/problem/149/A
+21. 
