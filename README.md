@@ -77,4 +77,4 @@
 22. https://codeforces.com/problemset/problem/1624/B
 23. https://codeforces.com/problemset/problem/1337/B
 24. https://codeforces.com/problemset/problem/320/A
-25. 
+25. https://codeforces.com/problemset/problem/115/A
