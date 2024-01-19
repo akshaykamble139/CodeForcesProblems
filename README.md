@@ -73,4 +73,8 @@
 18. https://codeforces.com/problemset/problem/556/A
 19. https://codeforces.com/problemset/problem/1335/B
 20. https://codeforces.com/problemset/problem/149/A
-21. 
+21. https://codeforces.com/problemset/problem/977/B
+22. https://codeforces.com/problemset/problem/1624/B
+23. https://codeforces.com/problemset/problem/1337/B
+24. https://codeforces.com/problemset/problem/320/A
+25. 
