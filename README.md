@@ -83,3 +83,8 @@
 28. https://codeforces.com/problemset/problem/1462/C
 29. https://codeforces.com/problemset/problem/567/A
 30. https://codeforces.com/problemset/problem/1742/C
+31. https://codeforces.com/problemset/problem/1535/B
+32. https://codeforces.com/problemset/problem/1850/D
+33. https://codeforces.com/problemset/problem/1296/B
+34. https://codeforces.com/problemset/problem/709/A
+35. https://codeforces.com/problemset/problem/1341/A
