@@ -98,3 +98,9 @@
 43. https://codeforces.com/problemset/problem/1650/B
 44. https://codeforces.com/problemset/problem/276/A
 45. https://codeforces.com/problemset/problem/1433/C
+46. https://codeforces.com/problemset/problem/1807/D
+47. https://codeforces.com/problemset/problem/1206/B
+48. https://codeforces.com/problemset/problem/1872/B
+49. https://codeforces.com/problemset/problem/1350/A
+50. https://codeforces.com/problemset/problem/1543/A
+51. 
