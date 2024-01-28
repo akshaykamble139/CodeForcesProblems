@@ -113,3 +113,8 @@
 58. https://codeforces.com/problemset/problem/439/A
 59. https://codeforces.com/problemset/problem/1837/B
 60. https://codeforces.com/problemset/problem/199/A
+61. https://codeforces.com/problemset/problem/1593/B
+62. https://codeforces.com/problemset/problem/1525/B
+63. https://codeforces.com/problemset/problem/598/A
+64. https://codeforces.com/problemset/problem/1915/D
+65. https://codeforces.com/problemset/problem/1467/A
