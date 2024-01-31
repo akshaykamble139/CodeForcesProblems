@@ -123,3 +123,8 @@
 68. https://codeforces.com/problemset/problem/1607/B
 69. https://codeforces.com/problemset/problem/1326/B
 70. https://codeforces.com/problemset/problem/1675/B
+71. https://codeforces.com/problemset/problem/1213/A
+72. https://codeforces.com/problemset/problem/1354/A
+73. https://codeforces.com/problemset/problem/1238/A
+74. https://codeforces.com/problemset/problem/1779/B
+75. 
