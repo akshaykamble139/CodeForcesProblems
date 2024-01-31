@@ -127,4 +127,4 @@
 72. https://codeforces.com/problemset/problem/1354/A
 73. https://codeforces.com/problemset/problem/1238/A
 74. https://codeforces.com/problemset/problem/1779/B
-75. 
+75. https://codeforces.com/problemset/problem/1883/B
