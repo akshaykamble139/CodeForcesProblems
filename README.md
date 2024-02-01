@@ -128,3 +128,8 @@
 73. https://codeforces.com/problemset/problem/1238/A
 74. https://codeforces.com/problemset/problem/1779/B
 75. https://codeforces.com/problemset/problem/1883/B
+76. https://codeforces.com/problemset/problem/1420/A
+77. https://codeforces.com/problemset/problem/1543/B
+78. https://codeforces.com/problemset/problem/1856/B
+79. https://codeforces.com/problemset/problem/1881/B
+80. https://codeforces.com/problemset/problem/1295/A
