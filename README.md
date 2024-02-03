@@ -138,3 +138,8 @@
 83. https://codeforces.com/problemset/problem/1855/B
 84. https://codeforces.com/problemset/problem/1705/B
 85. https://codeforces.com/problemset/problem/1617/B
+86. https://codeforces.com/problemset/problem/1559/B
+87. https://codeforces.com/problemset/problem/1606/A
+88. https://codeforces.com/problemset/problem/1768/B
+89. https://codeforces.com/problemset/problem/1005/B
+90. https://codeforces.com/problemset/problem/1771/A
