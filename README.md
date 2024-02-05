@@ -144,3 +144,8 @@
 89. https://codeforces.com/problemset/problem/1005/B
 90. https://codeforces.com/problemset/problem/1771/A
 91. https://codeforces.com/problemset/problem/1709/B
+92. https://codeforces.com/problemset/problem/501/A
+93. https://codeforces.com/problemset/problem/1720/A
+94. https://codeforces.com/problemset/problem/129/A
+95. https://codeforces.com/problemset/problem/1747/B
+96. https://codeforces.com/problemset/problem/205/A
