@@ -150,3 +150,10 @@
 95. https://codeforces.com/problemset/problem/1747/B
 96. https://codeforces.com/problemset/problem/205/A
 97. https://codeforces.com/problemset/problem/1283/B
+98. https://codeforces.com/problemset/problem/1406/A
+99. https://codeforces.com/problemset/problem/1795/B
+100. https://codeforces.com/problemset/problem/1095/B
+
+## 1000 rating problems
+1. https://codeforces.com/problemset/problem/1/A
+2. https://codeforces.com/problemset/problem/118/A
