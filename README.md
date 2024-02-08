@@ -157,3 +157,8 @@
 ## 1000 rating problems
 1. https://codeforces.com/problemset/problem/1/A
 2. https://codeforces.com/problemset/problem/118/A
+3. https://codeforces.com/problemset/problem/69/A
+4. https://codeforces.com/problemset/problem/58/A
+5. https://codeforces.com/problemset/problem/122/A
+6. https://codeforces.com/problemset/problem/479/A
+7. https://codeforces.com/problemset/problem/131/A
