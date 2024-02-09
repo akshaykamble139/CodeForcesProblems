@@ -162,3 +162,8 @@
 5. https://codeforces.com/problemset/problem/122/A
 6. https://codeforces.com/problemset/problem/479/A
 7. https://codeforces.com/problemset/problem/131/A
+8. https://codeforces.com/problemset/problem/230/A
+9. https://codeforces.com/problemset/problem/339/B
+10. https://codeforces.com/problemset/problem/579/A
+11. https://codeforces.com/problemset/problem/43/A
+12. https://codeforces.com/problemset/problem/500/A
