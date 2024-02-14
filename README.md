@@ -182,3 +182,8 @@
 25. https://codeforces.com/problemset/problem/450/A
 26. https://codeforces.com/problemset/problem/268/B
 27. https://codeforces.com/problemset/problem/1520/C
+28. https://codeforces.com/problemset/problem/766/B
+29. https://codeforces.com/problemset/problem/688/B
+30. https://codeforces.com/problemset/problem/1473/B
+31. https://codeforces.com/problemset/problem/1326/A
+32. https://codeforces.com/problemset/problem/1141/A
