@@ -190,3 +190,4 @@
 33. https://codeforces.com/problemset/problem/1359/A
 34. https://codeforces.com/problemset/problem/1182/A
 35. https://codeforces.com/problemset/problem/766/A
+36. https://codeforces.com/problemset/problem/1256/A
