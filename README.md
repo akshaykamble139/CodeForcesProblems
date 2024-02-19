@@ -195,3 +195,4 @@
 38. https://codeforces.com/problemset/problem/139/A
 39. https://codeforces.com/problemset/problem/1359/B
 40. https://codeforces.com/problemset/problem/1469/A
+41. https://codeforces.com/problemset/problem/1469/B
