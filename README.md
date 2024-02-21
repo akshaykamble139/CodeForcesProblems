@@ -197,4 +197,8 @@
 40. https://codeforces.com/problemset/problem/1469/A
 41. https://codeforces.com/problemset/problem/1469/B
 42. https://codeforces.com/problemset/problem/1474/B
-43. 
+43. https://codeforces.com/problemset/problem/1373/A
+44. https://codeforces.com/problemset/problem/1550/B
+45. https://codeforces.com/problemset/problem/1690/D
+46. https://codeforces.com/problemset/problem/1490/B
+47. https://codeforces.com/problemset/problem/237/A
