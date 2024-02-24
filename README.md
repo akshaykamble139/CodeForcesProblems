@@ -208,3 +208,4 @@
 51. https://codeforces.com/problemset/problem/75/A
 52. https://codeforces.com/problemset/problem/352/A
 53. https://codeforces.com/problemset/problem/1333/A
+54. https://codeforces.com/problemset/problem/1607/C
