@@ -220,3 +220,4 @@
 63. https://codeforces.com/problemset/problem/1395/A
 64. https://codeforces.com/problemset/problem/1419/D1
 65. https://codeforces.com/problemset/problem/1829/D
+66. https://codeforces.com/problemset/problem/37/A
