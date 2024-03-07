@@ -224,3 +224,4 @@
 67. https://codeforces.com/problemset/problem/1840/C
 68. https://codeforces.com/problemset/problem/272/A
 69. https://codeforces.com/problemset/problem/1430/C
+70. https://codeforces.com/problemset/problem/1859/B
