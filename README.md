@@ -227,3 +227,4 @@
 70. https://codeforces.com/problemset/problem/1859/B
 71. https://codeforces.com/problemset/problem/680/B
 72. https://codeforces.com/problemset/problem/1744/C
+73. https://codeforces.com/problemset/problem/1506/C
