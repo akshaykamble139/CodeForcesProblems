@@ -229,3 +229,4 @@
 72. https://codeforces.com/problemset/problem/1744/C
 73. https://codeforces.com/problemset/problem/1506/C
 74. https://codeforces.com/problemset/problem/1916/B
+75. https://codeforces.com/problemset/problem/1770/A
