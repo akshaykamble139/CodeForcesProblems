@@ -232,3 +232,4 @@
 75. https://codeforces.com/problemset/problem/1770/A
 76. https://codeforces.com/problemset/problem/1674/C
 77. https://codeforces.com/problemset/problem/1702/D
+78. https://codeforces.com/problemset/problem/404/A
