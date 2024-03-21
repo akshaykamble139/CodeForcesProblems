@@ -238,3 +238,4 @@
 81. https://codeforces.com/problemset/problem/1772/C
 82. https://codeforces.com/problemset/problem/165/A
 83. https://codeforces.com/problemset/problem/1907/B
+84. https://codeforces.com/problemset/problem/1362/A
