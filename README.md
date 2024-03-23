@@ -240,3 +240,4 @@
 83. https://codeforces.com/problemset/problem/1907/B
 84. https://codeforces.com/problemset/problem/1362/A
 85. https://codeforces.com/problemset/problem/1300/B
+86. https://codeforces.com/problemset/problem/1760/D
