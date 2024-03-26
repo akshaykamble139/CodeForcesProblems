@@ -243,3 +243,4 @@
 86. https://codeforces.com/problemset/problem/1760/D
 87. https://codeforces.com/problemset/problem/1851/C
 88. https://codeforces.com/problemset/problem/1800/C1
+89. https://codeforces.com/problemset/problem/1388/B
